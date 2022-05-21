@@ -21,7 +21,7 @@
 <nav class="navbar navbar-expand-lg navbar-light shadow">
     <div class="container d-flex justify-content-between align-items-center">
 
-        <a class="navbar-brand text-danger logo h1 align-self-center" href="index.html">
+        <a class="navbar-brand text-danger logo h1 align-self-center" href="inicio">
             AmericanSHOP
         </a>
 
@@ -33,16 +33,16 @@
             <div class="flex-fill">
                 <ul class="nav navbar-nav d-flex justify-content-between mx-lg-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="index.php">Inicio</a>
+                        <a class="nav-link" href="inicio">Inicio</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="atencion-en-linea.php">Atencion en Linea</a>
+                        <a class="nav-link" href="atencion-en-linea">Atencion en Linea</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="articulos.php">Articulos</a>
+                        <a class="nav-link" href="articulos">Articulos</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="donde-estamos.php">Donde Estamos</a>
+                        <a class="nav-link" href="donde-estamos">Donde Estamos</a>
                     </li>
                 </ul>
             </div>
